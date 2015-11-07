@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LegiAtlas.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="icn-filter-mdpi" x="0" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-filter-xhdpi" x="32" y="0" width="64" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-filter-xxhdpi" x="96" y="0" width="96" height="96" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-filter-xxxhdpi" x="192" y="0" width="128" height="128" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-settings-mdpi" x="320" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-settings-xhdpi" x="352" y="0" width="64" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-settings-xxhdpi" x="416" y="0" width="96" height="96" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-settings-xxxhdpi" x="0" y="128" width="128" height="128" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-share-mdpi" x="128" y="128" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-share-xhdpi" x="160" y="128" width="64" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-share-xxhdpi" x="224" y="128" width="96" height="96" pivotX="0" pivotY="0"/>
+	<SubTexture name="icn-share-xxxhdpi" x="320" y="128" width="128" height="128" pivotX="0" pivotY="0"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LegiAtlasNoScale.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="bg-card" x="0" y="0" width="36" height="37" pivotX="0" pivotY="0"/>
+	<SubTexture name="btn-redeem-offer-down" x="0" y="38" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="btn-redeem-offer-up" x="32" y="38" width="32" height="32" pivotX="0" pivotY="0"/>
+</TextureAtlas>
